@@ -1,0 +1,52 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "6f3adb996ab94db4",
+            "max_int": "b8807ee62b8ff2a3",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Mommy Long",
+            "photo": "https://i.postimg.cc/RVP5nh7G/amberluvsbugs-18-the-mother-c-2.jpg",
+            "voice": "https://ringy9.github.io/Poppy-Call-Playtime/conversion.mp3",
+            "video": "https://ringy9.github.io/Poppy-Call-Playtime/Mommy.mp4",
+            "stories": [
+               "https://i.postimg.cc/9MGH4Bbq/13bb0b71eb2bbf583c489f8e113ba041.jpg",
+"https://i.postimg.cc/SQfpkDjB/359e25f54c1cc6dc60d5efeba811828b.jpg",
+"https://i.postimg.cc/VvgygL3f/541f9d86833d79417801c10ce578942b.jpg",
+"https://i.postimg.cc/8cNQLrXX/58296fc0a951b89fc2d08af041fdbb98.jpg",
+"https://i.postimg.cc/wvKdTrXp/5bc885381486e1d9afe36debe8100b71.jpg",
+"https://i.postimg.cc/FsFXR3L7/amberluvsbugs-18-the-mother-c-1.jpg",
+"https://i.postimg.cc/RVP5nh7G/amberluvsbugs-18-the-mother-c-2.jpg",
+"https://i.postimg.cc/mDW0GH4Z/df0nw69-cb401ec9-6b10-4fa6-93bd-5b5afb44b9d9.jpg",
+"https://i.postimg.cc/hj8N4t4L/df183l9-75b39cd5-09d0-4b13-8b71-09c7efc4641d.jpg",
+"https://i.postimg.cc/13TkJdYq/FMQExzf-WQAY5-Hq-E.jpg",
+"https://i.postimg.cc/fb96Fv6g/h-eerceel-279232172-515894013370742-9056288057655746714-n.jpg",
+"https://i.postimg.cc/8zj8dGwG/n7oczzfby4v81.webp"
+            ],
+            "wallpapers": [
+               "https://i.postimg.cc/9MGH4Bbq/13bb0b71eb2bbf583c489f8e113ba041.jpg",
+"https://i.postimg.cc/SQfpkDjB/359e25f54c1cc6dc60d5efeba811828b.jpg",
+"https://i.postimg.cc/VvgygL3f/541f9d86833d79417801c10ce578942b.jpg",
+"https://i.postimg.cc/8cNQLrXX/58296fc0a951b89fc2d08af041fdbb98.jpg",
+"https://i.postimg.cc/wvKdTrXp/5bc885381486e1d9afe36debe8100b71.jpg",
+"https://i.postimg.cc/FsFXR3L7/amberluvsbugs-18-the-mother-c-1.jpg",
+"https://i.postimg.cc/RVP5nh7G/amberluvsbugs-18-the-mother-c-2.jpg",
+"https://i.postimg.cc/mDW0GH4Z/df0nw69-cb401ec9-6b10-4fa6-93bd-5b5afb44b9d9.jpg",
+"https://i.postimg.cc/hj8N4t4L/df183l9-75b39cd5-09d0-4b13-8b71-09c7efc4641d.jpg",
+"https://i.postimg.cc/13TkJdYq/FMQExzf-WQAY5-Hq-E.jpg",
+"https://i.postimg.cc/fb96Fv6g/h-eerceel-279232172-515894013370742-9056288057655746714-n.jpg",
+"https://i.postimg.cc/8zj8dGwG/n7oczzfby4v81.webp"
+            ]
+          
+        }
+    ]
+}
